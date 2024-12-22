@@ -1,0 +1,232 @@
+{
+  "63041": {
+    "group": "63041",
+    "days": {
+      "0": {
+        "name": "ПОНЕДЕЛЬНИК",
+        "lessons": []
+      },
+      "1": {
+        "name": "ВТОРНИК",
+        "lessons": [
+          {
+            "teacher": "",
+            "second_teacher": "",
+            "subjectType": "Пр",
+            "week": "2",
+            "name": "Русский язык как иностранный (Russian as a Foreign Language)",
+            "start_time": "08:00",
+            "end_time": "09:30",
+            "start_time_seconds": 28800,
+            "end_time_seconds": 34200,
+            "room": "1122",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [],
+            "url": null
+          },
+          {
+            "teacher": "",
+            "second_teacher": "",
+            "subjectType": "Пр",
+            "week": "1",
+            "name": "Русский язык как иностранный (Russian as a Foreign Language)",
+            "start_time": "08:00",
+            "end_time": "09:30",
+            "start_time_seconds": 28800,
+            "end_time_seconds": 34200,
+            "room": "1122",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [],
+            "url": null
+          },
+          {
+            "teacher": "Губкин Александр Федорович",
+            "second_teacher": "",
+            "subjectType": "Пр",
+            "week": "2",
+            "name": "Объектно-ориентированные технологии разработки программного обеспечения",
+            "start_time": "13:40",
+            "end_time": "15:10",
+            "start_time_seconds": 49200,
+            "end_time_seconds": 54600,
+            "room": "",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [],
+            "url": null
+          },
+          {
+            "teacher": "Губкин Александр Федорович",
+            "second_teacher": "",
+            "subjectType": "Пр",
+            "week": "1",
+            "name": "Объектно-ориентированные технологии разработки программного обеспечения",
+            "start_time": "13:40",
+            "end_time": "15:10",
+            "start_time_seconds": 49200,
+            "end_time_seconds": 54600,
+            "room": "",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [],
+            "url": null
+          },
+          {
+            "teacher": "",
+            "second_teacher": "",
+            "subjectType": "Пр",
+            "week": "2",
+            "name": "Иностранный язык (Foreign Language)",
+            "start_time": "15:30",
+            "end_time": "17:00",
+            "start_time_seconds": 55800,
+            "end_time_seconds": 61200,
+            "room": "",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [],
+            "url": null
+          },
+          {
+            "teacher": "",
+            "second_teacher": "",
+            "subjectType": "Пр",
+            "week": "1",
+            "name": "Иностранный язык (Foreign Language)",
+            "start_time": "15:30",
+            "end_time": "17:00",
+            "start_time_seconds": 55800,
+            "end_time_seconds": 61200,
+            "room": "",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [],
+            "url": null
+          }
+        ]
+      },
+      "2": {
+        "name": "СРЕДА",
+        "lessons": []
+      },
+      "3": {
+        "name": "ЧЕТВЕРГ",
+        "lessons": [
+          {
+            "teacher": "Казаринова Надежда Васильевна",
+            "second_teacher": "",
+            "subjectType": "Пр",
+            "week": "1",
+            "name": "Социальные коммуникации в профессиональной среде",
+            "start_time": "09:50",
+            "end_time": "11:20",
+            "start_time_seconds": 35400,
+            "end_time_seconds": 40800,
+            "room": "",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [
+              {
+                "type": "teacher",
+                "teacher": "Глухих Владимир Александрович",
+                "start_date": "2021-02-01",
+                "end_date": "2021-02-28",
+                "start_timestamp": 1612137600,
+                "end_timestamp": 1614470400
+              }
+            ],
+            "url": null
+          },
+          {
+            "teacher": "",
+            "second_teacher": "",
+            "subjectType": "Лек",
+            "week": "1",
+            "name": "Объектно-ориентированные технологии разработки программного обеспечения",
+            "start_time": "11:40",
+            "end_time": "13:10",
+            "start_time_seconds": 42000,
+            "end_time_seconds": 47400,
+            "room": "",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [],
+            "url": null
+          },
+          {
+            "teacher": "Казаринова Надежда Васильевна",
+            "second_teacher": "",
+            "subjectType": "Лек",
+            "week": "2",
+            "name": "Социальные коммуникации в профессиональной среде",
+            "start_time": "13:40",
+            "end_time": "15:10",
+            "start_time_seconds": 49200,
+            "end_time_seconds": 54600,
+            "room": "3324",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [
+              {
+                "type": "room",
+                "room": "1143",
+                "start_date": "2021-02-01",
+                "end_date": "2021-02-28",
+                "start_timestamp": 1612137600,
+                "end_timestamp": 1614470400
+              }
+            ],
+            "url": null
+          }
+        ]
+      },
+      "4": {
+        "name": "ПЯТНИЦА",
+        "lessons": []
+      },
+      "5": {
+        "name": "СУББОТА",
+        "lessons": [
+          {
+            "teacher": "",
+            "second_teacher": "",
+            "subjectType": "Лек",
+            "week": "2",
+            "name": "Военно-морская подготовка",
+            "start_time": "09:50",
+            "end_time": "17:00",
+            "start_time_seconds": 35400,
+            "end_time_seconds": 61200,
+            "room": "",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [],
+            "url": null
+          },
+          {
+            "teacher": "",
+            "second_teacher": "",
+            "subjectType": "Лек",
+            "week": "1",
+            "name": "Военно-морская подготовка",
+            "start_time": "09:50",
+            "end_time": "17:00",
+            "start_time_seconds": 35400,
+            "end_time_seconds": 61200,
+            "room": "",
+            "comment": "",
+            "is_distant": false,
+            "temp_changes": [],
+            "url": null
+          }
+        ]
+      },
+      "6": {
+        "name": "ВОСКРЕСЕНЬЕ",
+        "lessons": []
+      }
+    }
+  }
+}

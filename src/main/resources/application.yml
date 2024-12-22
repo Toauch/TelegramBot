@@ -1,0 +1,45 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/schedule_bot
+    username: postgres
+    password: MyFerrari2017
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+    show-sql: true
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
+
+telegram:
+  bot:
+    username: ${BOT_USERNAME:LETI_Assistantbot}
+    token: ${BOT_TOKEN:"Введите токен"}
+
+logging:
+  charset:
+    console: UTF-8
+    file: UTF-8
+  level:
+    com.schedule: DEBUG
+    org.springframework: INFO
+    org.hibernate.SQL: DEBUG
+    org.hibernate.type.descriptor.sql: TRACE
+    org.springframework.web.reactive.function.client: DEBUG
+
+api:
+  schedule:
+    base-url: https://digital.etu.ru/api/mobile/schedule
+    timeout: 5000
